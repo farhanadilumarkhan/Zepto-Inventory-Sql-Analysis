@@ -92,9 +92,9 @@ Eight business questions answered with SQL (see below).
 ## 📁 Repository Structure
 
 ```
-├── Zepto_Inventory_SQL.sql   # Database setup, exploration, cleaning, analysis
-├── zepto.csv              # Raw dataset
-└── README.md
+├── README.md  
+├── Zepto_Inventory_SQL.sql   # Database setup, exploration, cleaning, analysis             
+└── zepto.csv   # Raw dataset
 ```
 
 ---
